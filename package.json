@@ -1,0 +1,19 @@
+{
+	"name": "prettier-config",
+	"version": "0.0.1",
+	"description": "A set of universal Prettier settings.",
+	"author": "Scott Agirs Neminskis",
+	"main": ".rules.json",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:ijsto/prettier-config.git"
+	},
+	"keywords": [
+		"prettier",
+		"prettierconfig",
+		"prettier-config",
+		"prettiersettings",
+		"prettier-settings"
+	],
+	"license": "BSD-3-Clause"
+}

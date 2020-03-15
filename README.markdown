@@ -1,0 +1,3 @@
+# @ijsto/prettier-config
+
+@TODO
