@@ -2,7 +2,10 @@
 	"name": "prettier-config",
 	"version": "0.0.1",
 	"description": "A set of universal Prettier settings.",
-	"author": "Scott Agirs Neminskis",
+	"author": "(Scott) Agirs Neminskis <scott.agirs@gmail.com>",
+	"bugs": {
+		"url": "https://github.com/ijsto/prettier-config/issues"
+	  },
 	"main": ".rules.json",
 	"repository": {
 		"type": "git",
