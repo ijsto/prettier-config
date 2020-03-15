@@ -1,5 +1,5 @@
 {
-	"name": "prettier-config",
+	"name": "@ijsto/prettier-config",
 	"version": "0.0.1",
 	"description": "A set of universal Prettier settings.",
 	"author": "(Scott) Agirs Neminskis <scott.agirs@gmail.com>",
